@@ -4,6 +4,8 @@ Team #
 2. <Teamlid2>
 3. <Teamlid3>
 
+[Projectmanagment]() <Trello scrumboard bijvoorbeeld>
+
 ## Ontwerp
 Beschrijf hier kort jullie project
 
