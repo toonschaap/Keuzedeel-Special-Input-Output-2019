@@ -28,12 +28,12 @@ Deze sprint staat in het teken van het prototype. De studenten hebben een werken
 **Presentatie 2 - Voortgang**  
 Tijdens deze presentatie gaan de studenten hun huidige voortgang aan de klas presenteren. Ze laten hun huidige onderzoek zien, en het ontwerp. Ook de prototype van de applicatie wordt getoond. Deze presentatie duurt hoogstens 10 minuten.
 
-## Sprint 3   <SPRINT>
+## Sprint 3  product + portfolio <SPRINT>
 ### Week 5 (3 juni)
 ### Week 6 (10 juni)
 Uiterlijk 14 juni leveren jullie het portfolio in. Dat wilt zeggen, vanaf 14 juni is jullie documentatie klaar om nagekeken te worden door de MA beoordelaars.
   
-## Sprint EXIT
+## Sprint 4 EXIT
 In deze sprint worden de presentaties en de CGI examens gehouden. De studenten worden hier beoordeeld op hun product en hoe ze tot hun eindproduct zijn gekomen.
 
 ### Week 7 (17 juni)
