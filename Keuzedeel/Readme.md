@@ -1,5 +1,5 @@
 # Keuzedeel
-Deze folder bevat alle feitelijke informatie over het keuzedeel en het examen.
+Deze folder bevat alle feitelijke informatie over het keuzedeel en het examen.  Lees het [Kwalificatiedossier] (https://github.com/MediacollegeAmsterdam/Keuzedeel-Special-Input-Output-2019/blob/master/Keuzedeel/Special_Input_-_Output.pdf)
 
 # Planning
 Met uitzondering van sprint 0 en 4 duren alle sprints 2 weken. Aan het einde van iedere sprint is er een speelbaar prototype.
