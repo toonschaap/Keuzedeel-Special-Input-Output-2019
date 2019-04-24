@@ -1,9 +1,11 @@
 # Keuzedeel
-Deze folder bevat alle feitelijke informatie over het keuzedeel en het examen.  Lees het Kwalificatidossier.
+Deze folder bevat alle feitelijke informatie over het keuzedeel en het examen.  Lees het Kwalificatiedossier, bekijk Beoordeling Producten Schema.
 
 
 
 [Kwalificatiedossier](https://github.com/MediacollegeAmsterdam/Keuzedeel-Special-Input-Output-2019/blob/master/Keuzedeel/Special_Input_-_Output.pdf)
+
+[Beoordeling Producten, Schema](https://github.com/MediacollegeAmsterdam/Keuzedeel-Special-Input-Output-2019/blob/master/Keuzedeel/Beoordeling%20producten%20schema.pdf)
 
 # Planning
 6 weken 4 sprints.
