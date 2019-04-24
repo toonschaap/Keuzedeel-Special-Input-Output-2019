@@ -2,6 +2,9 @@
 Het logboek komt te staan op Google Calenders. Iedere groep maakt zijn eigen calender aan, en iedere dag wordt er een logboek item aangemaakt. Zorg ervoor dat het hele team toegang heeft tot het logboek en dat iedereen items kan aanmaken.
 
 # Templates
+
+[Beoordeling Producten, Schema](https://github.com/MediacollegeAmsterdam/Keuzedeel-Special-Input-Output-2019/blob/master/Keuzedeel/Beoordeling%20producten%20schema.pdf)
+
 ## Presentatie
 Voor presentaties 1, 2 en eind wordt dezelfde template gebruikt.  
 In de presentatie gaan jullie je portfolios toelichten. Jullie gaan dus presenteren:
