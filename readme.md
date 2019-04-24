@@ -1,8 +1,8 @@
 # Speciale Input - Output
 Team #
-1. Silvan
-2. Ed
-3. Jelle
+1. Berend
+2. Erik
+3. Ed
 
 [Projectmanagment]() <Trello scrumboard bijvoorbeeld>
 
