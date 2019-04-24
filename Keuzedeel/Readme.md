@@ -6,7 +6,8 @@ Deze folder bevat alle feitelijke informatie over het keuzedeel en het examen.  
 [Kwalificatiedossier](https://github.com/MediacollegeAmsterdam/Keuzedeel-Special-Input-Output-2019/blob/master/Keuzedeel/Special_Input_-_Output.pdf)
 
 # Planning
-Met uitzondering van sprint 0 en 4 duren alle sprints 2 weken. Aan het einde van iedere sprint is er een speelbaar prototype.
+6 weken 4 sprints.
+
 ## Sprint 0   <SPRINT>
 Deze sprint staat in teken van het opstarten van het project. De studenten krijgen de briefing, maken de keuze welke hardware gebruikt gaat worden, en maken een initiele plan hoe ze het gaan aanpakken. Dit plan presenteren ze en de docenten geven ze een go of een nogo.
 
