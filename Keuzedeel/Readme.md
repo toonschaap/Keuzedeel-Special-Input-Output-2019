@@ -7,6 +7,8 @@ Deze folder bevat alle feitelijke informatie over het keuzedeel en het examen.  
 
 [Beoordeling Producten, Schema](https://github.com/MediacollegeAmsterdam/Keuzedeel-Special-Input-Output-2019/blob/master/Keuzedeel/Beoordeling%20producten%20schema.pdf)
 
+[Map met documenten voor studenten](https://drive.google.com/open?id=1FKZu-hhPVH6xn71TgTx-QWfbGK302uia)
+
 # Planning
 6 weken 4 sprints.
 
