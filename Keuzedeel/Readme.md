@@ -10,7 +10,7 @@ Deze folder bevat alle feitelijke informatie over het keuzedeel en het examen.  
 [Map met documenten voor studenten](https://drive.google.com/open?id=1FKZu-hhPVH6xn71TgTx-QWfbGK302uia)
 
 # Planning
-6 weken 4 sprints.
+6 weken 4 sprints. Overzicht zie spreadsheet in Map met documenten voor studenten.
 
 ## Sprint 0   <SPRINT>
 Deze sprint staat in teken van het opstarten van het project. De studenten krijgen de briefing, maken de keuze welke hardware gebruikt gaat worden, en maken een initiele plan hoe ze het gaan aanpakken. Dit plan presenteren ze en de docenten geven ze een go of een nogo.
