@@ -1,4 +1,4 @@
-# Speciale Input - Output
+# Special Input/Output
 Team #
 1. teamlid 
 2. teamlid
