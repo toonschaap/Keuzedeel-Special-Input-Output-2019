@@ -6,7 +6,7 @@ Team #
 [Projectmanagment](https://trello.com/b/Ko0sasJI/input-output) 
 
 ## Ontwerp
-Beschrijf hier kort jullie project
+Een 2d platformer waar er een klein stuk licht om de speler zit. Dit licht kan groter worden gemaakt met geluid om het level te kunnen zien.
 
 ## Portfolio
 Zet hier de links neer naar jullie documentatie.
