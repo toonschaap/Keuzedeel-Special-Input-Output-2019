@@ -12,6 +12,6 @@ Een 2d platformer waar er een klein stuk licht om de speler zit. Dit licht kan g
 Zet hier de links neer naar jullie documentatie.
 
 * [Onderzoek]()
-* [Ontwerp]()
+* [Ontwerp](https://docs.google.com/document/d/1KYN4G6NdQtJM084GD1lc4dGEVYNwAv0MzkcTtisY6-c/edit?usp=sharing)
 * [Testrapportage]()
 * [Presentatie]()
